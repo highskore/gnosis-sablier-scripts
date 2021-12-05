@@ -31,7 +31,7 @@ Creates and setups a Safe proxy via the safe=core-sdk. (Make sure to fund your "
 
 #### Example
 
-This will deploy a Safe that uses the first imported account as an owner and set the threshold to 1.
+This will deploy a Safe that uses the "first" & "second" named accounts as an owners and sets the Safe threshold to 2
 
 ```bash
 node --require hardhat/register scripts/deploy.ts
