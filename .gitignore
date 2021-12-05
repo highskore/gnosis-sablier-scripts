@@ -1,0 +1,16 @@
+build/
+node_modules/
+contracts/
+.DS_Store
+.zos.session
+.openzeppelin/.session
+env/
+.env
+bin/
+dist/
+deployments/
+cli_cache
+solc
+coverage/
+coverage.json
+yarn-error.log
